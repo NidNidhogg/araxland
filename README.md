@@ -1,2 +1,2 @@
-Araxland is a web3 playable demo
+EtherDragons is an ETH PvP fighting
 # contract
